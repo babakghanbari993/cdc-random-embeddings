@@ -1,6 +1,6 @@
 # Cycle Double Cover via Random Embeddings
 
-This repository contains computational experiments related to the **Cycle Double Cover (CDC) Conjecture** using random graph embeddings and facial diagrams.
+This repository contains computational experiments related to the **Cycle Double Cover (CDC) Conjecture** using random embeddings of cubic graphs and their facial diagrams.
 
 ## Cycle Double Cover Conjecture
 
