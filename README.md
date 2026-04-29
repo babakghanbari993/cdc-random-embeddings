@@ -14,10 +14,10 @@ For bridgeless cubic graphs, this is equivalent to finding an embedding with no 
 
 ## Singular and Regular Edges
 
-Let \( G \) be a bridgeless cubic graph and let \( F \) be a facial walk in an embedding of \( G \).
+Let $G$ be a bridgeless cubic graph and let $F$ be a facial walk in an embedding of $G$.
 
-- An edge \( e \) is **singular** if a facial walk traverses it twice.
-- An edge \( e \) is **regular** if it appears in two different facial walks.
+- An edge $e$ is **singular** if a facial walk traverses it twice.
+- An edge $e$ is **regular** if it appears in two different facial walks.
 
 We further classify singular edges:
 
@@ -30,11 +30,11 @@ These definitions follow the facial diagram framework developed in our paper.
 
 ## Main Computational Experiment
 
-For a random embedding of a bridgeless cubic graph \( G \) with \( m \) edges, our experiments suggest:
+For a random embedding of a bridgeless cubic graph $G$ with $m$ edges, our experiments suggest:
 
-- Expected number of good singular edges ≈ \( m/3 \)
-- Expected number of bad singular edges ≈ \( m/3 \)
-- Expected number of regular edges ≈ \( m/3 \)
+- Expected number of good singular edges ≈ $m/3$
+- Expected number of bad singular edges ≈ $m/3$
+- Expected number of regular edges ≈ $m/3$
 
 This experimental observation motivated Conjecture 1 in our paper.
 
