@@ -85,7 +85,7 @@ https://site.pheedloop.com/event/Eurocomb25/Abstracts
 
 - Graph Theory  
 - Cycle Double Cover Conjecture  
-- Random Graph Embeddings  
+- Random Embeddings  
 - Combinatorics  
 - SageMath  
 - Computational Mathematics
