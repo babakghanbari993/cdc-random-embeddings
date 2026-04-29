@@ -8,4 +8,4 @@ $F$ we call it **bad singular**.
 
 Our computer experiment shows that in a random embedding of a bridgeless cubic graph $G$ with $m$ edges, the expected number of bad singular, good singular, and regular edges is $\frac{m}{3}$ for each case.
 
-**Note**: In the Python code, we used the notation "**bad negative for bad singular**", "**bad positive for good singular**", and "**good for regular**"!
+The results of this work have been published in: Proceedings of the 13th European Conference on Combinatorics, Graph Theory and Applications (EUROCOMB'25). See pages 493–498 of https://site.pheedloop.com/event/Eurocomb25/Abstracts
