@@ -46,7 +46,7 @@ This experimental observation motivated Conjecture 1 in our paper.
 .
 ├── README.md
 └── notebooks/
-    └── random_embedding_experiments.ipynb
+    └── random_embedding_experiment.ipynb
 ```
 
 ---
